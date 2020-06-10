@@ -29,7 +29,7 @@ With this simple analysis we can take a few information about our mailbox:
 * The most active time, which in this case was on Thursdays and Wednesdays, between 12-15h;
 * Most used words in the subject.
 
-You can go further and also analyze the email text body, create sentimental analysis, identify unwanted emails, and so on.
+You can go further and also analyze the email text body, create sentiment analysis, identify unwanted emails, and so on.
 
 In my case, I didn't have many emails stored anymore. But it was a nice project to learn how to get the content from my email and explore it. 
    
